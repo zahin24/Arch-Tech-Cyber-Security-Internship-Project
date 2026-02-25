@@ -1,4 +1,4 @@
-# Cyber Security Internship - Month 1
+# Cyber Security Internship Project
 This repository contains the tasks completed during the first month of the Cyber Security internship at Arch Technologies. The projects focus on network security and understanding system-level vulnerabilities through practical Python implementation.
 
 ## Project Overview
