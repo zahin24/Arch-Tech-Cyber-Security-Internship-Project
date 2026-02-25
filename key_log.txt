@@ -1,0 +1,14 @@
+fasd
+
+frgjyaaaaaaaaaaaaa
+
+fuc [Key.backspace]  [Key.backspace] fr
+
+ [Key.esc] test
+iam [SPACE] hacker
+whoami [SPACE]  [Key.backspace]  [Key.shift] ?
+
+ [Key.shift_r]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.tab]  [Key.tab] 
+
+
+ [Key.esc] 
