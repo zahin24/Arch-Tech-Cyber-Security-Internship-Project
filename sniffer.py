@@ -16,6 +16,6 @@ def packet_callback(packet):
     elif UDP in packet:
         print(f"UDP Port: {packet[UDP].sport} -> {packet[UDP].dport}")
 
-# Sniff packets: iface='eth0' or your interface; count=10 to limit; filter='tcp' for TCP only
-# Run with sudo/admin rights
+
+
 sniff(prn=packet_callback, filter="ip", store=False)  # store=False to avoid memory buildup
