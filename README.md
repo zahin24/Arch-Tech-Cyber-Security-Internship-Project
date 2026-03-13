@@ -92,7 +92,7 @@ Build a machine learning model to detect fraudulent transactions within a highly
 
 **Tools Used:** 
 
-Python 3, Scikit-learn, Seaborn, Matplotlib, SMOTE (imlearn).
+Python 3, Scikit-learn, Seaborn, Matplotlib, SMOTE (imblearn).
 
 **Features:**
 
@@ -126,6 +126,9 @@ source venv/bin/activate
 python3 credit_card_fraud_detection.py
 ```
 
+# poc
+
+![image](https://github.com/zahin24/Arch-Tech-Cyber-Security-Internship-Project/blob/main/Task-4%3A%20Credit%20Card%20Fraud%20Detection/Screenshot%202026-03-11%20235147.png)
 
 ## Model Performance Summary:
 
