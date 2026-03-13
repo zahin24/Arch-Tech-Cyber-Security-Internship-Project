@@ -116,6 +116,17 @@ Python 3, Scikit-learn, Seaborn, Matplotlib, SMOTE (imlearn).
 4. **Visualization:** Produced a Confusion Matrix heatmap to confirm the model's predictive power across both classes.
 
 
+**Running the Scripts**
+
+```
+# Activate your virtual environment
+source venv/bin/activate
+
+# Run the fraud detection model
+python3 credit_card_fraud_detection.py
+```
+
+
 ## Model Performance Summary:
 
 **Total Test Samples: 56,962**
