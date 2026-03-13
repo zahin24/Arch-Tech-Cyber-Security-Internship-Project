@@ -126,18 +126,13 @@ source venv/bin/activate
 python3 credit_card_fraud_detection.py
 ```
 
-# poc
+## Results & Model Evaluation
 
 ![image](https://github.com/zahin24/Arch-Tech-Cyber-Security-Internship-Project/blob/main/Task-4%3A%20Credit%20Card%20Fraud%20Detection/Screenshot%202026-03-11%20235147.png)
 
-## Model Performance Summary:
-
-**Total Test Samples: 56,962**
-
-**Fraud Detected (True Positives): 84**
-
-**Legitimate (True Negatives): 56,854**
-
-**Accuracy: 100% (Weighted)**
-
-**Fraud Detection Precision: 89%**
+### Model Performance Summary:
+* **Total Test Samples:** 56,962
+* **Fraud Detected (True Positives):** 84
+* **Legitimate (True Negatives):** 56,854
+* **Accuracy:** 100% (Weighted)
+* **Fraud Detection Precision:** 89%
